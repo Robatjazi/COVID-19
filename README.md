@@ -9,4 +9,8 @@ The [COVID-19 open dataset](https://github.com/ieee8023/covid-chestxray-dataset#
 I amgoing t use 56 case as positive samples and use [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) dataset for negative samples.
 
 
-Following is the first experiment using VGG16 network:
+* In the first experminet I used VGG16 networ, you can find the results in vgg16network2.ipynb
+* In the first experminet I used VGG16 networ, you can find the results in vgg16network2.ipynb
+
+
+
