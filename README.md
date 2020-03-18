@@ -9,8 +9,9 @@ The [COVID-19 open dataset](https://github.com/ieee8023/covid-chestxray-dataset#
 I am going t use 56 case as positive samples and use [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) dataset (selecting healthy cases randomly to match the number of COVID-19 cases) for negative samples.
 
 
-* In the first experminet I used VGG16 network, you can find the results in vgg16network2.ipynb
-* In the next experminet I used VGG19 network. The reslts are very close.
+* I used some of the pretrained CNN networks like VGG16, VGG19, EfficientNet, ...
+* I get good results using VGG16 and VGG19 network, you can find the results in vgg16network2.ipynb
+
 
 
 
