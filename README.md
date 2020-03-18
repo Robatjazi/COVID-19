@@ -10,7 +10,7 @@ I am going t use 56 case as positive samples and use [Chest X-Ray Images (Pneumo
 
 
 * I used some of the pretrained CNN networks like VGG16, VGG19, EfficientNet, ...
-* I get good results using VGG16 and VGG19 network, you can find the results in vgg16network2.ipynb
+* I got good results using VGG16 and VGG19 network, you can find the results in vgg16network2.ipynb
 
 
 
